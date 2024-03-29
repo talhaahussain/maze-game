@@ -1,2 +1,5 @@
-# A2_Computer-Science_Maze-Game
-Maze game created for A2 Computer Science project.
+# maze-game
+
+Maze game created for A2 Computer Science project (A-level Computer Science, Year 13).
+
+Run main.py to play.
